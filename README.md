@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：效果验证
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 047 篇 - 百家乐Ai预测分析工具：成功截图合集为什么不能替代完整测试](https://github.com/TGmszrcsz/baccarat-ai-047) ｜ [下一篇：第 049 篇 - 百家乐Ai预测分析工具：分组评估揭示总体均值遮住的问题](https://github.com/TGmszrcsz/baccarat-ai-049)
+
+<!-- article-chain:end -->
+
 新版与旧版分别在不同时间段得到不同成绩。本篇围绕“版本对比要先统一测试样本”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、本篇解决的阅读问题
